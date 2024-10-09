@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../OneDrive/Documents/java"
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
